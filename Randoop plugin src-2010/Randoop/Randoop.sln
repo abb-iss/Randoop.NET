@@ -1,0 +1,70 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Randoop", "Randoop\Randoop.csproj", "{61A90246-843B-46B1-8202-1FDD25657E50}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Randoop-NET-addin", "InstallRandoop\InstallRandoop.vdproj", "{898301EC-3AB3-46B0-9899-429475E5D0D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RandoopTesting", "RandoopAddinTesting\RandoopTesting.csproj", "{64F52AD6-001E-4C55-9028-E021C1E6F5D9}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 4
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://de-s-0178517.de.abb.com:8090/tfs/crciss
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = InstallRandoop\\InstallRandoop.vdproj
+		SccProjectName1 = InstallRandoop
+		SccLocalPath1 = InstallRandoop
+		SccProjectUniqueName2 = Randoop\\Randoop.csproj
+		SccProjectName2 = Randoop
+		SccLocalPath2 = Randoop
+		SccProjectUniqueName3 = RandoopAddinTesting\\RandoopTesting.csproj
+		SccProjectName3 = RandoopAddinTesting
+		SccLocalPath3 = RandoopAddinTesting
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61A90246-843B-46B1-8202-1FDD25657E50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61A90246-843B-46B1-8202-1FDD25657E50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61A90246-843B-46B1-8202-1FDD25657E50}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{61A90246-843B-46B1-8202-1FDD25657E50}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{61A90246-843B-46B1-8202-1FDD25657E50}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{61A90246-843B-46B1-8202-1FDD25657E50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61A90246-843B-46B1-8202-1FDD25657E50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61A90246-843B-46B1-8202-1FDD25657E50}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{61A90246-843B-46B1-8202-1FDD25657E50}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{61A90246-843B-46B1-8202-1FDD25657E50}.Release|x86.ActiveCfg = Release|Any CPU
+		{898301EC-3AB3-46B0-9899-429475E5D0D2}.Debug|Any CPU.ActiveCfg = Debug
+		{898301EC-3AB3-46B0-9899-429475E5D0D2}.Debug|Mixed Platforms.ActiveCfg = Debug
+		{898301EC-3AB3-46B0-9899-429475E5D0D2}.Debug|Mixed Platforms.Build.0 = Debug
+		{898301EC-3AB3-46B0-9899-429475E5D0D2}.Debug|x86.ActiveCfg = Debug
+		{898301EC-3AB3-46B0-9899-429475E5D0D2}.Debug|x86.Build.0 = Debug
+		{898301EC-3AB3-46B0-9899-429475E5D0D2}.Release|Any CPU.ActiveCfg = Release
+		{898301EC-3AB3-46B0-9899-429475E5D0D2}.Release|Any CPU.Build.0 = Release
+		{898301EC-3AB3-46B0-9899-429475E5D0D2}.Release|Mixed Platforms.ActiveCfg = Release
+		{898301EC-3AB3-46B0-9899-429475E5D0D2}.Release|Mixed Platforms.Build.0 = Release
+		{898301EC-3AB3-46B0-9899-429475E5D0D2}.Release|x86.ActiveCfg = Release
+		{898301EC-3AB3-46B0-9899-429475E5D0D2}.Release|x86.Build.0 = Release
+		{64F52AD6-001E-4C55-9028-E021C1E6F5D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64F52AD6-001E-4C55-9028-E021C1E6F5D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64F52AD6-001E-4C55-9028-E021C1E6F5D9}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{64F52AD6-001E-4C55-9028-E021C1E6F5D9}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{64F52AD6-001E-4C55-9028-E021C1E6F5D9}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{64F52AD6-001E-4C55-9028-E021C1E6F5D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64F52AD6-001E-4C55-9028-E021C1E6F5D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64F52AD6-001E-4C55-9028-E021C1E6F5D9}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{64F52AD6-001E-4C55-9028-E021C1E6F5D9}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{64F52AD6-001E-4C55-9028-E021C1E6F5D9}.Release|x86.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
