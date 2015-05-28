@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary1", "ClassLibrary1\ClassLibrary1.csproj", "{40E3D513-F97B-4458-BE6E-238443B8B08F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{C027798E-9D70-4A3E-93F5-73D33051425A}"
+	ProjectSection(SolutionItems) = preProject
+		ClassLibrary1.vsmdi = ClassLibrary1.vsmdi
+		Local.testsettings = Local.testsettings
+		TraceAndTestImpact.testsettings = TraceAndTestImpact.testsettings
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RandoopTestPrj", "RandoopTestPrj\RandoopTestPrj.csproj", "{E8726026-FF32-45FD-BBDA-63B3A26D580C}"
+EndProject
+Global
+	GlobalSection(TestCaseManagementSettings) = postSolution
+		CategoryFile = ClassLibrary1.vsmdi
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{40E3D513-F97B-4458-BE6E-238443B8B08F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40E3D513-F97B-4458-BE6E-238443B8B08F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40E3D513-F97B-4458-BE6E-238443B8B08F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40E3D513-F97B-4458-BE6E-238443B8B08F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8726026-FF32-45FD-BBDA-63B3A26D580C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8726026-FF32-45FD-BBDA-63B3A26D580C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8726026-FF32-45FD-BBDA-63B3A26D580C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8726026-FF32-45FD-BBDA-63B3A26D580C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

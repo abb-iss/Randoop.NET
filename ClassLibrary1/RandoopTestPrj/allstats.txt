@@ -1,0 +1,33 @@
+========== ClassLibrary1.Class1.Int32 CalcSum(Int32, Int32)
+
+Test generation statistics.
+112    : TRIED to create test ending with this member
+5      : FAILED TO CREATE: found no input arguments
+1      : FAILED TO CREATE: found inputs, but new test syntactially the same as an old test
+106    : SUCCEEDED in creating a new test
+
+Test execution statistics.
+106    : normal
+
+========== ClassLibrary1.Class1 constructor Void .ctor()
+
+Test generation statistics.
+94     : TRIED to create test ending with this member
+0      : FAILED TO CREATE: found no input arguments
+93     : FAILED TO CREATE: found inputs, but new test syntactially the same as an old test
+1      : SUCCEEDED in creating a new test
+
+Test execution statistics.
+1      : normal
+
+========== ClassLibrary1.Class1.Void cal()
+
+Test generation statistics.
+91     : TRIED to create test ending with this member
+0      : FAILED TO CREATE: found no input arguments
+32     : FAILED TO CREATE: found inputs, but new test syntactially the same as an old test
+59     : SUCCEEDED in creating a new test
+
+Test execution statistics.
+59     : normal
+
