@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RandoopTests", "RandoopTests\RandoopTests.csproj", "{6D50FDAE-0C4C-47D4-B697-93F9DD68F92F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RandoopImpl", "RandoopImpl\RandoopImpl.csproj", "{596DF464-5F9A-4892-9CFD-6431806CCA73}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RandoopBare", "RandoopBare\RandoopBare.csproj", "{3772E920-050C-47C1-8EC0-DACD0ED9CF92}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RandoopCommon", "RandoopCommon\RandoopCommon.csproj", "{D5B45A6E-B8DA-4A4B-B08B-4C1EA24BEB1B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Randoop", "Randoop\Randoop.csproj", "{2FE829AB-46F1-4F2E-9373-9C51DDE2FA98}"
+	ProjectSection(ProjectDependencies) = postProject
+		{596DF464-5F9A-4892-9CFD-6431806CCA73} = {596DF464-5F9A-4892-9CFD-6431806CCA73}
+		{3772E920-050C-47C1-8EC0-DACD0ED9CF92} = {3772E920-050C-47C1-8EC0-DACD0ED9CF92}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PostBuild", "PostBuild\PostBuild.csproj", "{2D6B33E9-ED80-4BD9-904B-138101DB7714}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6D50FDAE-0C4C-47D4-B697-93F9DD68F92F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D50FDAE-0C4C-47D4-B697-93F9DD68F92F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D50FDAE-0C4C-47D4-B697-93F9DD68F92F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D50FDAE-0C4C-47D4-B697-93F9DD68F92F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{596DF464-5F9A-4892-9CFD-6431806CCA73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{596DF464-5F9A-4892-9CFD-6431806CCA73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{596DF464-5F9A-4892-9CFD-6431806CCA73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{596DF464-5F9A-4892-9CFD-6431806CCA73}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3772E920-050C-47C1-8EC0-DACD0ED9CF92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3772E920-050C-47C1-8EC0-DACD0ED9CF92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3772E920-050C-47C1-8EC0-DACD0ED9CF92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3772E920-050C-47C1-8EC0-DACD0ED9CF92}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5B45A6E-B8DA-4A4B-B08B-4C1EA24BEB1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5B45A6E-B8DA-4A4B-B08B-4C1EA24BEB1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5B45A6E-B8DA-4A4B-B08B-4C1EA24BEB1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5B45A6E-B8DA-4A4B-B08B-4C1EA24BEB1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2FE829AB-46F1-4F2E-9373-9C51DDE2FA98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FE829AB-46F1-4F2E-9373-9C51DDE2FA98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FE829AB-46F1-4F2E-9373-9C51DDE2FA98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FE829AB-46F1-4F2E-9373-9C51DDE2FA98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D6B33E9-ED80-4BD9-904B-138101DB7714}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D6B33E9-ED80-4BD9-904B-138101DB7714}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D6B33E9-ED80-4BD9-904B-138101DB7714}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D6B33E9-ED80-4BD9-904B-138101DB7714}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

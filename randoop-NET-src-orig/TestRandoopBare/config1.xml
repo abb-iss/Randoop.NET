@@ -1,0 +1,75 @@
+<RandoopConfiguration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <TimeLimit>100</TimeLimit>
+    <Assemblies FileName="C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\System.XML.dll" />
+    <ExecutionLog>d:\tvm\src\Randoop2\TestRandoopBare\execution.log</ExecutionLog>
+     <TypeMatchingMode>SubTypes</TypeMatchingMode>
+    <RandomSeed>0</RandomSeed>
+    <RandomSource>SystemRandom</RandomSource>
+    <ArrayMaxSize>4</ArrayMaxSize>
+    <MethodWeighing>Uniform</MethodWeighing>
+    <ForbidNull>true</ForbidNull>
+    <StartWithRoundRobin>false</StartWithRoundRobin>
+    <StartWithRoundRobinTimes>0</StartWithRoundRobinTimes>
+    <UseInternal>false</UseInternal>
+    <UseStatic>true</UseStatic>
+    <Filter>StandardReflectionFilter</Filter>
+    <Monkey>false</Monkey>
+    <FairOpt>false</FairOpt>
+    <OutputAtEnd>false</OutputAtEnd>
+    <ForbidParamObj>false</ForbidParamObj>
+    <ExecutionMode>Reflection</ExecutionMode>
+    <OutputNormalInputs>false</OutputNormalInputs>
+    <MethodName>Test</MethodName>
+    <PlanStartId>0</PlanStartId>
+    <SingleDir>true</SingleDir>
+    <OutputDir>d:\tvm\src\Randoop2\TestRandoopBare\tests</OutputDir>
+    <SimpleTypeValues SimpleType="System.SByte">
+        <FileName FileName="d:\tvm\src\Randoop2\default_config_files\seed_sbyte.txt" />
+    </SimpleTypeValues>
+    <SimpleTypeValues SimpleType="System.Byte">
+        <FileName FileName="d:\tvm\src\Randoop2\default_config_files\seed_byte.txt" />
+    </SimpleTypeValues>
+    <SimpleTypeValues SimpleType="System.Int16">
+        <FileName FileName="d:\tvm\src\Randoop2\default_config_files\seed_short.txt" />
+    </SimpleTypeValues>
+    <SimpleTypeValues SimpleType="System.UInt16">
+        <FileName FileName="d:\tvm\src\Randoop2\default_config_files\seed_ushort.txt" />
+    </SimpleTypeValues>
+    <SimpleTypeValues SimpleType="System.Int32">
+        <FileName FileName="d:\tvm\src\Randoop2\default_config_files\seed_int.txt" />
+    </SimpleTypeValues>
+    <SimpleTypeValues SimpleType="System.UInt32">
+        <FileName FileName="d:\tvm\src\Randoop2\default_config_files\seed_uint.txt" />
+    </SimpleTypeValues>
+    <SimpleTypeValues SimpleType="System.Int64">
+        <FileName FileName="d:\tvm\src\Randoop2\default_config_files\seed_long.txt" />
+    </SimpleTypeValues>
+    <SimpleTypeValues SimpleType="System.UInt64">
+        <FileName FileName="d:\tvm\src\Randoop2\default_config_files\seed_ulong.txt" />
+    </SimpleTypeValues>
+    <SimpleTypeValues SimpleType="System.Char">
+        <FileName FileName="d:\tvm\src\Randoop2\default_config_files\seed_char.txt" />
+    </SimpleTypeValues>
+    <SimpleTypeValues SimpleType="System.Single">
+        <FileName FileName="d:\tvm\src\Randoop2\default_config_files\seed_float.txt" />
+    </SimpleTypeValues>
+    <SimpleTypeValues SimpleType="System.Double">
+        <FileName FileName="d:\tvm\src\Randoop2\default_config_files\seed_double.txt" />
+    </SimpleTypeValues>
+    <SimpleTypeValues SimpleType="System.Boolean">
+        <FileName FileName="d:\tvm\src\Randoop2\default_config_files\seed_bool.txt" />
+    </SimpleTypeValues>
+    <SimpleTypeValues SimpleType="System.Decimal">
+        <FileName FileName="d:\tvm\src\Randoop2\default_config_files\seed_decimal.txt" />
+    </SimpleTypeValues>
+    <SimpleTypeValues SimpleType="System.String">
+        <FileName FileName="d:\tvm\src\Randoop2\default_config_files\seed_string.txt" />
+    </SimpleTypeValues>
+    <require_typesFile FileName="d:\tvm\src\Randoop2\default_config_files\require_types.txt" />
+    <require_membersFile FileName="d:\tvm\src\Randoop2\default_config_files\require_members.txt" />
+    <require_fieldsFile FileName="d:\tvm\src\Randoop2\default_config_files\require_fields.txt" />
+    <forbid_typesFile FileName="d:\tvm\src\Randoop2\default_config_files\forbid_types.txt" />
+    <forbid_membersFile FileName="d:\tvm\src\Randoop2\default_config_files\forbid_members.txt" />
+    <forbid_fieldsFile FileName="d:\tvm\src\Randoop2\default_config_files\forbid_fields.txt" />
+    <StatsFile FileName="d:\tvm\src\Randoop2\TestRandoopBare\waojmrkg.00u.stats.txt" />
+</RandoopConfiguration>
