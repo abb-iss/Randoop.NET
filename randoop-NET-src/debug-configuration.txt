@@ -1,0 +1,17 @@
+RandoopBare - general: 
+"C:\Projects\randoop-NET-src\TestRandoopBare\1ab1qkwm.jbd\config1.xml"
+
+
+Randoop - method transformer:
+methodtransformer "C:\Projects\randoop-NET-src\default_config_files\mapped_methods.txt" "C:\Projects\randoop-NET-src\RandoopBare\bin\test\PM5 IO Panel.exe" 
+
+
+Randoop - minimizer: 
+minimize "C:\Projects\ClassLibrary1\ClassLibrary1\bin\randoop_output\normaltermination1" 
+
+
+Randoop - reducer:
+
+reduce	"C:\Projects\randoop-NET-src\TestRandoopBare\1ab1qkwm.jbd\randoop_output\normaltermination1"
+reduce2 "C:\Projects\randoop-NET-src\TestRandoopBare\1ab1qkwm.jbd\randoop_output\normaltermination2"
+

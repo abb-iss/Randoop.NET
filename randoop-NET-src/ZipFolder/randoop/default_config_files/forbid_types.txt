@@ -1,0 +1,13 @@
+*System.IO*
+*System.IO.IsolatedStorage*
+*System.Runtime.InteropServices*
+*System.Security.AccessControl.SemaphoreSecurity*
+*RootProfilePropertySettingsCollection*
+*Microsoft.Coverage*
+*System.Diagnostics*
+*System.Threading*
+*System.Console*
+*System.Environment*
+*System.Drawing.Printing*
+System.Reflection*
+System.Xml.Xsl.XslCompiledTransform*
