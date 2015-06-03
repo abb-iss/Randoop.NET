@@ -1,0 +1,7 @@
+1. Upgrade all projects to newer version of Visual Studio
+2. Reimplememnt the VS add-in installer with wix, or reimplement it as an extension
+3. to-do-list embedded in the code, some significant ones include:
+	1) unable to collect coverage information of transformed .dll 
+	(issue report: https://github.com/jbevain/cecil/issues/107)
+	2) 
+ 
