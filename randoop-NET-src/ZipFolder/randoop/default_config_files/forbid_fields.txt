@@ -1,2 +1,0 @@
-# Enums define a 'value__" field but code that uses it won't compile.
-*value__
