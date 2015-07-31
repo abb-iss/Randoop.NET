@@ -798,7 +798,7 @@ namespace Randoop
                 Type typeDesired = typesDesired[i];
 
                 //if (typeDesired.IsArray || typeDesired.Equals(typeof(ArrayList))) //xiao.qu@us.abb.com changes as below to add List input generation
-                if (typeDesired.IsArray || typeDesired.Equals(typeof(ArrayList)) || typeDesired.FullName.Contains("System.Collections.Generic.List")) 
+                if (typeDesired.IsArray || typeDesired.Equals(typeof(ArrayList)) || (!string.IsNullOrEmpty(typeDesired.FullName) && typeDesired.FullName.Contains("System.Collections.Generic.List")))
                 {
                     int randArrayLength = Common.Enviroment.Random.Next(this.arrayMaxSize + 1);
 
