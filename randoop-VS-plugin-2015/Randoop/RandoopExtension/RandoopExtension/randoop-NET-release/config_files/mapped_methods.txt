@@ -1,0 +1,9 @@
+#format:
+#full original method declaration;full replacement method declaration
+#";" is the splitter and "#" is the comment indicator
+
+#default:
+System.Windows.Forms.MessageBox::Show(System.String );System.Console::WriteLine(System.String)
+#System.Windows.Forms.MessageBox::Show(System.String );
+
+#custormized:
