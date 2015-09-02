@@ -57,7 +57,7 @@ namespace Randoop
 
                 //------------------------------------
 
-                progressText2.Text = "Randoop is generating test cases ... "; 
+                progressText2.Invoke((MethodInvoker) delegate { progressText2.Text = "Randoop is generating test cases ... "; });
 
 
                 //------------------------------------
