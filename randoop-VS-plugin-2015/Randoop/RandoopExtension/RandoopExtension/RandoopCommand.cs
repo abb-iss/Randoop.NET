@@ -6,9 +6,7 @@
 
 using System;
 using System.ComponentModel.Design;
-using System.Globalization;
 using Microsoft.VisualStudio.Shell;
-using Microsoft.VisualStudio.Shell.Interop;
 using EnvDTE80;
 using System.IO;
 using EnvDTE;
@@ -304,6 +302,7 @@ namespace RandoopExtension
                     Solution2 soln = curSolution as Solution2;
                     string csTemplatePath = soln.GetProjectTemplate("TestProject.zip", "CSharp");
                     //MessageBox.Show(csTemplatePath); //debug
+                    Directory.Delete(testPrjPath);
                     curSolution.AddFromTemplate(csTemplatePath, testPrjPath, prjName, false); //IMPORTANT: it always returns NULL
                 }
 
