@@ -302,7 +302,7 @@ namespace RandoopExtension
                     Solution2 soln = curSolution as Solution2;
                     string csTemplatePath = soln.GetProjectTemplate("TestProject.zip", "CSharp");
                     //MessageBox.Show(csTemplatePath); //debug
-                    Directory.Delete(testPrjPath);
+                    if (Directory.Exists(testPrjPath)) {Directory.Delete(testPrjPath);}
                     curSolution.AddFromTemplate(csTemplatePath, testPrjPath, prjName, false); //IMPORTANT: it always returns NULL
                 }
 
