@@ -1,26 +1,323 @@
-randoop-VS-plugin-2010/Randoop/InstallRandoop/Debug
-randoop-VS-plugin-2010/Randoop/InstallRandoop/Release
-
-randoop-VS-plugin-2010/Randoop/Randoop/obj/Release
-randoop-VS-plugin-2010/Randoop/Randoop/obj/Debug
-randoop-VS-plugin-2010/Randoop/Randoop/bin
-
-randoop-VS-plugin-2010/Randoop/RandoopAddinTesting/bin/Debug
-randoop-VS-plugin-2010/Randoop/RandoopAddinTesting/bin/Release
-randoop-VS-plugin-2010/Randoop/RandoopAddinTesting/obj/Debug
-randoop-VS-plugin-2010/Randoop/RandoopAddinTesting/obj/Release
-
-ClassLibrary1/TestResults
-
-randoop-NET-src/PostBuild/bin
-randoop-NET-src/PostBuild/obj
-randoop-NET-src/Randoop/bin
-randoop-NET-src/Randoop/obj
-randoop-NET-src/RandoopBare/bin
-randoop-NET-src/RandoopBare/obj
-randoop-NET-src/RandoopCommon/bin
-randoop-NET-src/RandoopCommon/obj
-randoop-NET-src/RandoopImpl/bin
-randoop-NET-src/RandoopImpl/obj
-randoop-NET-src/RandoopTests/bin
-randoop-NET-src/RandoopTests/obj
+Randoop plugin src-2010/Randoop/InstallRandoop/Debug/InstallRandoop.msi
+Randoop plugin src-2010/Randoop/InstallRandoop/Debug/setup.exe
+Randoop plugin src-2010/Randoop/InstallRandoop/Release/InstallRandoop.msi
+Randoop plugin src-2010/Randoop/InstallRandoop/Release/setup.exe
+Randoop plugin src-2010/Randoop/Randoop/obj/Release/TempPE/Resource1.Designer.cs.dll
+Randoop plugin src-2010/Randoop/Randoop/obj/Release/Randoop.csproj.FileListAbsolute.txt
+Randoop plugin src-2010/Randoop/Randoop/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+Randoop plugin src-2010/Randoop/Randoop/obj/Debug/Randoop.Arguments.resources
+Randoop plugin src-2010/Randoop/Randoop/obj/Debug/Randoop.CommandBar.resources
+Randoop plugin src-2010/Randoop/Randoop/obj/Debug/Randoop.Progress.resources
+Randoop plugin src-2010/Randoop/Randoop/obj/Debug/Randoop.csproj.FileListAbsolute.txt
+Randoop plugin src-2010/Randoop/Randoop/obj/Debug/Randoop.csproj.GenerateResource.Cache
+Randoop plugin src-2010/Randoop/Randoop/obj/Debug/Randoop.csproj.ResolveComReference.cache
+Randoop plugin src-2010/Randoop/Randoop/obj/Debug/Randoop.dll
+Randoop plugin src-2010/Randoop/Randoop/obj/Debug/Randoop.pdb
+Randoop plugin src-2010/Randoop/Randoop/obj/Debug/ResGen.read.1.tlog
+Randoop plugin src-2010/Randoop/Randoop/obj/Debug/ResGen.write.1.tlog
+Randoop plugin src-2010/Randoop/Randoop/obj/Debug/ResolveAssemblyReference.cache
+Randoop plugin src-2010/Randoop/Randoop/obj/Debug/TempPE/Resource1.Designer.cs.dll
+Randoop plugin src-2010/Randoop/Randoop/obj/Release/DesignTimeResolveAssemblyReferences.cache
+Randoop plugin src-2010/Randoop/Randoop/obj/Release/DesignTimeResolveAssemblyReferencesInput.cache
+Randoop plugin src-2010/Randoop/RandoopAddinTesting/bin/Debug/Randoop.AddIn
+Randoop plugin src-2010/Randoop/RandoopAddinTesting/bin/Debug/Randoop.dll
+Randoop plugin src-2010/Randoop/RandoopAddinTesting/bin/Debug/Randoop.pdb
+Randoop plugin src-2010/Randoop/RandoopAddinTesting/bin/Debug/RandoopTesting.dll
+Randoop plugin src-2010/Randoop/RandoopAddinTesting/bin/Debug/RandoopTesting.pdb
+Randoop plugin src-2010/Randoop/RandoopAddinTesting/bin/Debug/en-US/Randoop.resources.dll
+Randoop plugin src-2010/Randoop/RandoopAddinTesting/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+Randoop plugin src-2010/Randoop/RandoopAddinTesting/obj/Debug/RandoopTesting.csproj.FileListAbsolute.txt
+Randoop plugin src-2010/Randoop/RandoopAddinTesting/obj/Debug/RandoopTesting.dll
+Randoop plugin src-2010/Randoop/RandoopAddinTesting/obj/Debug/RandoopTesting.pdb
+Randoop plugin src-2010/Randoop/RandoopAddinTesting/obj/Debug/ResolveAssemblyReference.cache
+Randoop plugin src-2010/Randoop/RandoopAddinTesting/obj/Release/DesignTimeResolveAssemblyReferencesInput.cache
+randoop-NET-src/PostBuild/bin/Debug/PostBuild.dll
+randoop-NET-src/PostBuild/bin/Debug/PostBuild.pdb
+randoop-NET-src/PostBuild/bin/Release/PostBuild.dll
+randoop-NET-src/PostBuild/bin/Release/PostBuild.pdb
+randoop-NET-src/PostBuild/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+randoop-NET-src/PostBuild/obj/Debug/PostBuild.csproj.FileListAbsolute.txt
+randoop-NET-src/PostBuild/obj/Debug/PostBuild.dll
+randoop-NET-src/PostBuild/obj/Debug/PostBuild.pdb
+randoop-NET-src/PostBuild/obj/Release/DesignTimeResolveAssemblyReferencesInput.cache
+randoop-NET-src/PostBuild/obj/Release/PostBuild.csproj.FileListAbsolute.txt
+randoop-NET-src/PostBuild/obj/Release/PostBuild.dll
+randoop-NET-src/PostBuild/obj/Release/PostBuild.pdb
+randoop-NET-src/Randoop/bin/Debug/Mono.Cecil.Pdb.dll
+randoop-NET-src/Randoop/bin/Debug/Mono.Cecil.Pdb.pdb
+randoop-NET-src/Randoop/bin/Debug/Mono.Cecil.dll
+randoop-NET-src/Randoop/bin/Debug/Mono.Cecil.pdb
+randoop-NET-src/Randoop/bin/Debug/Randoop.exe
+randoop-NET-src/Randoop/bin/Debug/Randoop.exe.config
+randoop-NET-src/Randoop/bin/Debug/Randoop.pdb
+randoop-NET-src/Randoop/bin/Debug/Randoop.vshost.exe
+randoop-NET-src/Randoop/bin/Debug/Randoop.vshost.exe.config
+randoop-NET-src/Randoop/bin/Debug/RandoopCommon.dll
+randoop-NET-src/Randoop/bin/Debug/RandoopCommon.pdb
+randoop-NET-src/Randoop/bin/Debug/Temp.exe
+randoop-NET-src/Randoop/bin/Release/Mono.Cecil.Pdb.dll
+randoop-NET-src/Randoop/bin/Release/Mono.Cecil.Pdb.pdb
+randoop-NET-src/Randoop/bin/Release/Mono.Cecil.dll
+randoop-NET-src/Randoop/bin/Release/Mono.Cecil.pdb
+randoop-NET-src/Randoop/bin/Release/Randoop.exe
+randoop-NET-src/Randoop/bin/Release/Randoop.exe.config
+randoop-NET-src/Randoop/bin/Release/Randoop.pdb
+randoop-NET-src/Randoop/bin/Release/Randoop.vshost.exe
+randoop-NET-src/Randoop/bin/Release/Randoop.vshost.exe.config
+randoop-NET-src/Randoop/bin/Release/Randoop.vshost.exe.manifest
+randoop-NET-src/Randoop/bin/Release/RandoopCommon.dll
+randoop-NET-src/Randoop/bin/Release/RandoopCommon.pdb
+randoop-NET-src/Randoop/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+randoop-NET-src/Randoop/obj/Debug/Randoop.csproj.FileListAbsolute.txt
+randoop-NET-src/Randoop/obj/Debug/Randoop.exe
+randoop-NET-src/Randoop/obj/Debug/Randoop.pdb
+randoop-NET-src/Randoop/obj/Debug/Refactor/Randoop.exe
+randoop-NET-src/Randoop/obj/Release/DesignTimeResolveAssemblyReferencesInput.cache
+randoop-NET-src/Randoop/obj/Release/Randoop.csproj.FileListAbsolute.txt
+randoop-NET-src/Randoop/obj/Release/Randoop.csprojResolveAssemblyReference.cache
+randoop-NET-src/Randoop/obj/Release/Randoop.exe
+randoop-NET-src/Randoop/obj/Release/Randoop.pdb
+randoop-NET-src/Randoop/obj/Release/Refactor/Randoop.exe
+randoop-NET-src/RandoopBare/bin/Debug/Mono.Cecil.Mdb.dll
+randoop-NET-src/RandoopBare/bin/Debug/Mono.Cecil.Mdb.pdb
+randoop-NET-src/RandoopBare/bin/Debug/Mono.Cecil.Pdb.dll
+randoop-NET-src/RandoopBare/bin/Debug/Mono.Cecil.Pdb.pdb
+randoop-NET-src/RandoopBare/bin/Debug/Mono.Cecil.Rocks.dll
+randoop-NET-src/RandoopBare/bin/Debug/Mono.Cecil.Rocks.pdb
+randoop-NET-src/RandoopBare/bin/Debug/Mono.Cecil.dll
+randoop-NET-src/RandoopBare/bin/Debug/Mono.Cecil.pdb
+randoop-NET-src/RandoopBare/bin/Debug/RandoopBare.exe
+randoop-NET-src/RandoopBare/bin/Debug/RandoopBare.exe.config
+randoop-NET-src/RandoopBare/bin/Debug/RandoopBare.pdb
+randoop-NET-src/RandoopBare/bin/Debug/RandoopBare.vshost.exe
+randoop-NET-src/RandoopBare/bin/Debug/RandoopBare.vshost.exe.config
+randoop-NET-src/RandoopBare/bin/Debug/RandoopBare.vshost.exe.manifest
+randoop-NET-src/RandoopBare/bin/Debug/RandoopCommon.dll
+randoop-NET-src/RandoopBare/bin/Debug/RandoopCommon.pdb
+randoop-NET-src/RandoopBare/bin/Debug/RandoopImpl.dll
+randoop-NET-src/RandoopBare/bin/Debug/RandoopImpl.pdb
+randoop-NET-src/RandoopBare/bin/Release/Mono.Cecil.Mdb.dll
+randoop-NET-src/RandoopBare/bin/Release/Mono.Cecil.Mdb.pdb
+randoop-NET-src/RandoopBare/bin/Release/Mono.Cecil.Pdb.dll
+randoop-NET-src/RandoopBare/bin/Release/Mono.Cecil.Pdb.pdb
+randoop-NET-src/RandoopBare/bin/Release/Mono.Cecil.Rocks.dll
+randoop-NET-src/RandoopBare/bin/Release/Mono.Cecil.Rocks.pdb
+randoop-NET-src/RandoopBare/bin/Release/Mono.Cecil.dll
+randoop-NET-src/RandoopBare/bin/Release/Mono.Cecil.pdb
+randoop-NET-src/RandoopBare/bin/Release/RandoopBare.exe
+randoop-NET-src/RandoopBare/bin/Release/RandoopBare.exe.config
+randoop-NET-src/RandoopBare/bin/Release/RandoopBare.pdb
+randoop-NET-src/RandoopBare/bin/Release/RandoopBare.vshost.exe
+randoop-NET-src/RandoopBare/bin/Release/RandoopBare.vshost.exe.config
+randoop-NET-src/RandoopBare/bin/Release/RandoopBare.vshost.exe.manifest
+randoop-NET-src/RandoopBare/bin/Release/RandoopCommon.dll
+randoop-NET-src/RandoopBare/bin/Release/RandoopCommon.pdb
+randoop-NET-src/RandoopBare/bin/Release/RandoopImpl.dll
+randoop-NET-src/RandoopBare/bin/Release/RandoopImpl.pdb
+randoop-NET-src/RandoopBare/bin/test/ABB.Robotics.Adapters.IRC5.dll
+randoop-NET-src/RandoopBare/bin/test/ABB.Robotics.Controllers.Configuration.dll
+randoop-NET-src/RandoopBare/bin/test/ABB.Robotics.Controllers.dll
+randoop-NET-src/RandoopBare/bin/test/ABB.Robotics.dll
+randoop-NET-src/RandoopBare/bin/test/AfwBuildNoGen.exe
+randoop-NET-src/RandoopBare/bin/test/ClassLibrary1.dll
+randoop-NET-src/RandoopBare/bin/test/Configuration.dll
+randoop-NET-src/RandoopBare/bin/test/Core.dll
+randoop-NET-src/RandoopBare/bin/test/Generic IOPanel.exe
+randoop-NET-src/RandoopBare/bin/test/Gif.Components.dll
+randoop-NET-src/RandoopBare/bin/test/Gif.Components.pdb
+randoop-NET-src/RandoopBare/bin/test/IOPanel.snk
+randoop-NET-src/RandoopBare/bin/test/Indexer.dll
+randoop-NET-src/RandoopBare/bin/test/Lucene.Net.dll
+randoop-NET-src/RandoopBare/bin/test/PM5 IO Panel.exe
+randoop-NET-src/RandoopBare/bin/test/PM5 IO Panel_BUorig.exe
+randoop-NET-src/RandoopBare/bin/test/PM5 IO Panel_nowindowsformincode.exe
+randoop-NET-src/RandoopBare/bin/test/PM5 IO Panel_orig.exe
+randoop-NET-src/RandoopBare/bin/test/PM5 IO Panel_orig.pdb
+randoop-NET-src/RandoopBare/bin/test/Parser.dll
+randoop-NET-src/RandoopBare/bin/test/SandoExtensionContracts.dll
+randoop-NET-src/RandoopBare/bin/test/SearchEngine.dll
+randoop-NET-src/RandoopBare/bin/test/SortComparison.exe
+randoop-NET-src/RandoopBare/bin/test/Translation.dll
+randoop-NET-src/RandoopBare/bin/test/UpdateDesktopHeap.exe
+randoop-NET-src/RandoopBare/bin/test/Zebrot.Commands.dll
+randoop-NET-src/RandoopBare/bin/test/lib/ABB.Robotics.Adapters.IRC5.dll
+randoop-NET-src/RandoopBare/bin/test/lib/ABB.Robotics.Controllers.Configuration.dll
+randoop-NET-src/RandoopBare/bin/test/lib/ABB.Robotics.Controllers.dll
+randoop-NET-src/RandoopBare/bin/test/lib/ABB.Robotics.dll
+randoop-NET-src/RandoopBare/bin/test/lib/Core.dll
+randoop-NET-src/RandoopBare/bin/test/log4net.dll.aa
+randoop-NET-src/RandoopBare/bin/test/quicksort.exe
+randoop-NET-src/RandoopBare/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+randoop-NET-src/RandoopBare/obj/Debug/RandoopBare.csproj.FileListAbsolute.txt
+randoop-NET-src/RandoopBare/obj/Debug/RandoopBare.csprojResolveAssemblyReference.cache
+randoop-NET-src/RandoopBare/obj/Debug/RandoopBare.exe
+randoop-NET-src/RandoopBare/obj/Debug/RandoopBare.pdb
+randoop-NET-src/RandoopBare/obj/Release/DesignTimeResolveAssemblyReferencesInput.cache
+randoop-NET-src/RandoopBare/obj/Release/RandoopBare.csproj.FileListAbsolute.txt
+randoop-NET-src/RandoopBare/obj/Release/RandoopBare.csprojResolveAssemblyReference.cache
+randoop-NET-src/RandoopBare/obj/Release/RandoopBare.exe
+randoop-NET-src/RandoopBare/obj/Release/RandoopBare.pdb
+randoop-NET-src/RandoopCommon/bin/Debug/Mono.Cecil.Mdb.dll
+randoop-NET-src/RandoopCommon/bin/Debug/Mono.Cecil.Mdb.pdb
+randoop-NET-src/RandoopCommon/bin/Debug/Mono.Cecil.Pdb.dll
+randoop-NET-src/RandoopCommon/bin/Debug/Mono.Cecil.Pdb.pdb
+randoop-NET-src/RandoopCommon/bin/Debug/Mono.Cecil.Rocks.dll
+randoop-NET-src/RandoopCommon/bin/Debug/Mono.Cecil.Rocks.pdb
+randoop-NET-src/RandoopCommon/bin/Debug/Mono.Cecil.dll
+randoop-NET-src/RandoopCommon/bin/Debug/Mono.Cecil.pdb
+randoop-NET-src/RandoopCommon/bin/Debug/RandoopCommon.dll
+randoop-NET-src/RandoopCommon/bin/Debug/RandoopCommon.pdb
+randoop-NET-src/RandoopCommon/bin/Release/Mono.Cecil.Mdb.dll
+randoop-NET-src/RandoopCommon/bin/Release/Mono.Cecil.Mdb.pdb
+randoop-NET-src/RandoopCommon/bin/Release/Mono.Cecil.Pdb.dll
+randoop-NET-src/RandoopCommon/bin/Release/Mono.Cecil.Pdb.pdb
+randoop-NET-src/RandoopCommon/bin/Release/Mono.Cecil.Rocks.dll
+randoop-NET-src/RandoopCommon/bin/Release/Mono.Cecil.Rocks.pdb
+randoop-NET-src/RandoopCommon/bin/Release/Mono.Cecil.dll
+randoop-NET-src/RandoopCommon/bin/Release/Mono.Cecil.pdb
+randoop-NET-src/RandoopCommon/bin/Release/RandoopCommon.dll
+randoop-NET-src/RandoopCommon/bin/Release/RandoopCommon.pdb
+randoop-NET-src/RandoopCommon/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+randoop-NET-src/RandoopCommon/obj/Debug/RandoopCommon.csproj.FileListAbsolute.txt
+randoop-NET-src/RandoopCommon/obj/Debug/RandoopCommon.csprojResolveAssemblyReference.cache
+randoop-NET-src/RandoopCommon/obj/Debug/RandoopCommon.dll
+randoop-NET-src/RandoopCommon/obj/Debug/RandoopCommon.pdb
+randoop-NET-src/RandoopCommon/obj/Debug/Refactor/RandoopCommon.dll
+randoop-NET-src/RandoopCommon/obj/Release/DesignTimeResolveAssemblyReferencesInput.cache
+randoop-NET-src/RandoopCommon/obj/Release/RandoopCommon.csproj.FileListAbsolute.txt
+randoop-NET-src/RandoopCommon/obj/Release/RandoopCommon.dll
+randoop-NET-src/RandoopCommon/obj/Release/RandoopCommon.pdb
+randoop-NET-src/RandoopCommon/obj/Release/Refactor/RandoopCommon.dll
+randoop-NET-src/RandoopImpl/bin/Debug/Mono.Cecil.Pdb.dll
+randoop-NET-src/RandoopImpl/bin/Debug/Mono.Cecil.Pdb.pdb
+randoop-NET-src/RandoopImpl/bin/Debug/Mono.Cecil.dll
+randoop-NET-src/RandoopImpl/bin/Debug/Mono.Cecil.pdb
+randoop-NET-src/RandoopImpl/bin/Debug/RandoopCommon.dll
+randoop-NET-src/RandoopImpl/bin/Debug/RandoopCommon.pdb
+randoop-NET-src/RandoopImpl/bin/Debug/RandoopImpl.dll
+randoop-NET-src/RandoopImpl/bin/Debug/RandoopImpl.pdb
+randoop-NET-src/RandoopImpl/bin/Release/Mono.Cecil.Pdb.dll
+randoop-NET-src/RandoopImpl/bin/Release/Mono.Cecil.Pdb.pdb
+randoop-NET-src/RandoopImpl/bin/Release/Mono.Cecil.dll
+randoop-NET-src/RandoopImpl/bin/Release/Mono.Cecil.pdb
+randoop-NET-src/RandoopImpl/bin/Release/RandoopCommon.dll
+randoop-NET-src/RandoopImpl/bin/Release/RandoopCommon.pdb
+randoop-NET-src/RandoopImpl/bin/Release/RandoopImpl.dll
+randoop-NET-src/RandoopImpl/bin/Release/RandoopImpl.pdb
+randoop-NET-src/RandoopImpl/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+randoop-NET-src/RandoopImpl/obj/Debug/RandoopImpl.csproj.FileListAbsolute.txt
+randoop-NET-src/RandoopImpl/obj/Debug/RandoopImpl.csprojResolveAssemblyReference.cache
+randoop-NET-src/RandoopImpl/obj/Debug/RandoopImpl.dll
+randoop-NET-src/RandoopImpl/obj/Debug/RandoopImpl.pdb
+randoop-NET-src/RandoopImpl/obj/Debug/Refactor/RandoopImpl.dll
+randoop-NET-src/RandoopImpl/obj/Release/DesignTimeResolveAssemblyReferencesInput.cache
+randoop-NET-src/RandoopImpl/obj/Release/RandoopImpl.csproj.FileListAbsolute.txt
+randoop-NET-src/RandoopImpl/obj/Release/RandoopImpl.csprojResolveAssemblyReference.cache
+randoop-NET-src/RandoopImpl/obj/Release/RandoopImpl.dll
+randoop-NET-src/RandoopImpl/obj/Release/RandoopImpl.pdb
+randoop-NET-src/RandoopImpl/obj/Release/Refactor/RandoopImpl.dll
+randoop-NET-src/RandoopTests/bin/Debug/Mono.Cecil.Pdb.dll
+randoop-NET-src/RandoopTests/bin/Debug/Mono.Cecil.Pdb.pdb
+randoop-NET-src/RandoopTests/bin/Debug/Mono.Cecil.dll
+randoop-NET-src/RandoopTests/bin/Debug/Mono.Cecil.pdb
+randoop-NET-src/RandoopTests/bin/Debug/Randoop.exe
+randoop-NET-src/RandoopTests/bin/Debug/Randoop.pdb
+randoop-NET-src/RandoopTests/bin/Debug/RandoopCommon.dll
+randoop-NET-src/RandoopTests/bin/Debug/RandoopCommon.pdb
+randoop-NET-src/RandoopTests/bin/Debug/RandoopImpl.dll
+randoop-NET-src/RandoopTests/bin/Debug/RandoopImpl.pdb
+randoop-NET-src/RandoopTests/bin/Debug/RandoopTests.exe
+randoop-NET-src/RandoopTests/bin/Debug/RandoopTests.exe.config
+randoop-NET-src/RandoopTests/bin/Debug/RandoopTests.pdb
+randoop-NET-src/RandoopTests/bin/Debug/RandoopTests.vshost.exe
+randoop-NET-src/RandoopTests/bin/Debug/RandoopTests.vshost.exe.config
+randoop-NET-src/RandoopTests/bin/Release/Mono.Cecil.Pdb.dll
+randoop-NET-src/RandoopTests/bin/Release/Mono.Cecil.Pdb.pdb
+randoop-NET-src/RandoopTests/bin/Release/Mono.Cecil.dll
+randoop-NET-src/RandoopTests/bin/Release/Mono.Cecil.pdb
+randoop-NET-src/RandoopTests/bin/Release/Randoop.exe
+randoop-NET-src/RandoopTests/bin/Release/Randoop.pdb
+randoop-NET-src/RandoopTests/bin/Release/RandoopCommon.dll
+randoop-NET-src/RandoopTests/bin/Release/RandoopCommon.pdb
+randoop-NET-src/RandoopTests/bin/Release/RandoopImpl.dll
+randoop-NET-src/RandoopTests/bin/Release/RandoopImpl.pdb
+randoop-NET-src/RandoopTests/bin/Release/RandoopTests.exe
+randoop-NET-src/RandoopTests/bin/Release/RandoopTests.exe.config
+randoop-NET-src/RandoopTests/bin/Release/RandoopTests.pdb
+randoop-NET-src/RandoopTests/bin/Release/RandoopTests.vshost.exe
+randoop-NET-src/RandoopTests/bin/Release/RandoopTests.vshost.exe.config
+randoop-NET-src/RandoopTests/bin/Release/RandoopTests.vshost.exe.manifest
+randoop-NET-src/RandoopTests/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+randoop-NET-src/RandoopTests/obj/Debug/RandoopTests.csproj.FileListAbsolute.txt
+randoop-NET-src/RandoopTests/obj/Debug/RandoopTests.csprojResolveAssemblyReference.cache
+randoop-NET-src/RandoopTests/obj/Debug/RandoopTests.exe
+randoop-NET-src/RandoopTests/obj/Debug/RandoopTests.pdb
+randoop-NET-src/RandoopTests/obj/Release/DesignTimeResolveAssemblyReferencesInput.cache
+randoop-NET-src/RandoopTests/obj/Release/RandoopTests.csproj.FileListAbsolute.txt
+randoop-NET-src/RandoopTests/obj/Release/RandoopTests.csprojResolveAssemblyReference.cache
+randoop-NET-src/RandoopTests/obj/Release/RandoopTests.exe
+randoop-NET-src/RandoopTests/obj/Release/RandoopTests.pdb
+randoop-NET-src-orig/PostBuild/obj/Release/PostBuild.csproj.FileListAbsolute.txt
+randoop-NET-src-orig/Randoop2.sln.cache
+randoop-NET-src-orig/RandoopCommon/bin/Release/RandoopCommon.dll
+randoop-NET-src-orig/RandoopCommon/bin/Release/RandoopCommon.pdb
+randoop-NET-src-orig/RandoopCommon/obj/Release/RandoopCommon.csproj.FileListAbsolute.txt
+randoop-NET-src-orig/RandoopCommon/obj/Release/RandoopCommon.dll
+randoop-NET-src-orig/RandoopCommon/obj/Release/RandoopCommon.pdb
+randoop-VS-plugin-2010/Randoop/InstallRandoop/Debug/InstallRandoop.msi
+randoop-VS-plugin-2010/Randoop/InstallRandoop/Debug/setup.exe
+randoop-VS-plugin-2010/Randoop/InstallRandoop/Release/InstallRandoop.msi
+randoop-VS-plugin-2010/Randoop/InstallRandoop/Release/setup.exe
+randoop-VS-plugin-2010/Randoop/Randoop/bin/Randoop.AddIn
+randoop-VS-plugin-2010/Randoop/Randoop/bin/Randoop.dll
+randoop-VS-plugin-2010/Randoop/Randoop/bin/Randoop.dll.CodeAnalysisLog.xml
+randoop-VS-plugin-2010/Randoop/Randoop/bin/Randoop.dll.lastcodeanalysissucceeded
+randoop-VS-plugin-2010/Randoop/Randoop/bin/Randoop.pdb
+randoop-VS-plugin-2010/Randoop/Randoop/bin/en-US/Randoop.resources.dll
+randoop-VS-plugin-2010/Randoop/Randoop/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+randoop-VS-plugin-2010/Randoop/Randoop/obj/Debug/Randoop.Arguments.resources
+randoop-VS-plugin-2010/Randoop/Randoop/obj/Debug/Randoop.CommandBar.resources
+randoop-VS-plugin-2010/Randoop/Randoop/obj/Debug/Randoop.Progress.resources
+randoop-VS-plugin-2010/Randoop/Randoop/obj/Debug/Randoop.csproj.FileListAbsolute.txt
+randoop-VS-plugin-2010/Randoop/Randoop/obj/Debug/Randoop.csproj.GenerateResource.Cache
+randoop-VS-plugin-2010/Randoop/Randoop/obj/Debug/Randoop.csproj.ResolveComReference.cache
+randoop-VS-plugin-2010/Randoop/Randoop/obj/Debug/Randoop.dll
+randoop-VS-plugin-2010/Randoop/Randoop/obj/Debug/Randoop.pdb
+randoop-VS-plugin-2010/Randoop/Randoop/obj/Debug/ResGen.read.1.tlog
+randoop-VS-plugin-2010/Randoop/Randoop/obj/Debug/ResGen.write.1.tlog
+randoop-VS-plugin-2010/Randoop/Randoop/obj/Debug/ResolveAssemblyReference.cache
+randoop-VS-plugin-2010/Randoop/Randoop/obj/Debug/TempPE/Resource1.Designer.cs.dll
+randoop-VS-plugin-2010/Randoop/Randoop/obj/Release/DesignTimeResolveAssemblyReferences.cache
+randoop-VS-plugin-2010/Randoop/Randoop/obj/Release/DesignTimeResolveAssemblyReferencesInput.cache
+randoop-VS-plugin-2010/Randoop/Randoop/obj/Release/Randoop.Arguments.resources
+randoop-VS-plugin-2010/Randoop/Randoop/obj/Release/Randoop.CommandBar.resources
+randoop-VS-plugin-2010/Randoop/Randoop/obj/Release/Randoop.Progress.resources
+randoop-VS-plugin-2010/Randoop/Randoop/obj/Release/Randoop.csproj.FileListAbsolute.txt
+randoop-VS-plugin-2010/Randoop/Randoop/obj/Release/Randoop.csproj.GenerateResource.Cache
+randoop-VS-plugin-2010/Randoop/Randoop/obj/Release/Randoop.csproj.ResolveComReference.cache
+randoop-VS-plugin-2010/Randoop/Randoop/obj/Release/Randoop.csprojResolveAssemblyReference.cache
+randoop-VS-plugin-2010/Randoop/Randoop/obj/Release/Randoop.dll
+randoop-VS-plugin-2010/Randoop/Randoop/obj/Release/Randoop.pdb
+randoop-VS-plugin-2010/Randoop/Randoop/obj/Release/TempPE/Resource1.Designer.cs.dll
+randoop-VS-plugin-2010/Randoop/RandoopAddinTesting/bin/Debug/Randoop.AddIn
+randoop-VS-plugin-2010/Randoop/RandoopAddinTesting/bin/Debug/Randoop.dll
+randoop-VS-plugin-2010/Randoop/RandoopAddinTesting/bin/Debug/Randoop.pdb
+randoop-VS-plugin-2010/Randoop/RandoopAddinTesting/bin/Debug/RandoopTesting.dll
+randoop-VS-plugin-2010/Randoop/RandoopAddinTesting/bin/Debug/RandoopTesting.pdb
+randoop-VS-plugin-2010/Randoop/RandoopAddinTesting/bin/Debug/en-US/Randoop.resources.dll
+randoop-VS-plugin-2010/Randoop/RandoopAddinTesting/bin/Release/Randoop.AddIn
+randoop-VS-plugin-2010/Randoop/RandoopAddinTesting/bin/Release/Randoop.dll
+randoop-VS-plugin-2010/Randoop/RandoopAddinTesting/bin/Release/Randoop.pdb
+randoop-VS-plugin-2010/Randoop/RandoopAddinTesting/bin/Release/RandoopTesting.dll
+randoop-VS-plugin-2010/Randoop/RandoopAddinTesting/bin/Release/RandoopTesting.pdb
+randoop-VS-plugin-2010/Randoop/RandoopAddinTesting/bin/Release/en-US/Randoop.resources.dll
+randoop-VS-plugin-2010/Randoop/RandoopAddinTesting/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+randoop-VS-plugin-2010/Randoop/RandoopAddinTesting/obj/Debug/RandoopTesting.csproj.FileListAbsolute.txt
+randoop-VS-plugin-2010/Randoop/RandoopAddinTesting/obj/Debug/RandoopTesting.dll
+randoop-VS-plugin-2010/Randoop/RandoopAddinTesting/obj/Debug/RandoopTesting.pdb
+randoop-VS-plugin-2010/Randoop/RandoopAddinTesting/obj/Debug/ResolveAssemblyReference.cache
+randoop-VS-plugin-2010/Randoop/RandoopAddinTesting/obj/Release/DesignTimeResolveAssemblyReferencesInput.cache
+randoop-VS-plugin-2010/Randoop/RandoopAddinTesting/obj/Release/RandoopTesting.csproj.FileListAbsolute.txt
+randoop-VS-plugin-2010/Randoop/RandoopAddinTesting/obj/Release/RandoopTesting.csprojResolveAssemblyReference.cache
+randoop-VS-plugin-2010/Randoop/RandoopAddinTesting/obj/Release/RandoopTesting.dll
+randoop-VS-plugin-2010/Randoop/RandoopAddinTesting/obj/Release/RandoopTesting.pdb
