@@ -1,0 +1,28 @@
+
+# TODO: these may be ok. Remove these patterns and see...
+
+*add_*
+*remove_*
+
+# Methods that mention these types (e.g. as parameters) can be
+# problematic.
+
+*System.Threading*
+*System.Security.AccessControl.SemaphoreSecurity*
+
+System.Security.Cryptography.X509Certificates.X509Certificate"
+
+*ReadToNextSibling*
+*resize*
+System.Xml.Xsl.XslCompiledTransform*
+*GetTypeFromCLSID*
+
+*ReferenceMatchesDefinition*
+
+System.IntPtr
+
+*System.Void|*|*
+
+*&*
+
+*System.Windows.Forms*
